@@ -1,0 +1,14 @@
+{
+  "name": "udemy",
+  "version": "1.0.0",
+  "description": "to learn automation",
+  "main": "nightwatch.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Nikita",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^0.9.21"
+  }
+}
