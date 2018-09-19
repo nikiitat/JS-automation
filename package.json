@@ -9,6 +9,9 @@
   "author": "Nikita",
   "license": "ISC",
   "dependencies": {
-    "nightwatch": "^0.9.21"
+    "fs": "0.0.1-security",
+    "handlebars": "^4.0.12",
+    "nightwatch": "^0.9.21",
+    "path": "^0.12.7"
   }
 }
